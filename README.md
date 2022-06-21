@@ -6,7 +6,7 @@
 
 
 
-![giphy-downsized-large.gif](C:\Users\balam\Desktop\giphy-downsized-large.gif)
+![giphy-downsized-large.gif](readme_img/giphy-downsized-large.gif)
 
 ## About our team, Paza Anulare
 
