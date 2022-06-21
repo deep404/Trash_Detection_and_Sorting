@@ -14,12 +14,12 @@ Hello, we are Eduard Balamatiuc, Alex Clefos, Elena Graur and Mihai Moglan, Mach
 
 Check us on Social Media
 
-Mihai Moglan: [Facebook]([Facebook](https://www.facebook.com/mihai.moglan.1)) [LinkedIn](https://www.linkedin.com/in/mihai-moglan-237b14151/) [GitHub]([yourbeach · GitHub](https://github.com/yourbeach))
+Mihai Moglan: [Facebook](https://www.facebook.com/mihai.moglan.1) [LinkedIn](https://www.linkedin.com/in/mihai-moglan-237b14151/) [GitHub](https://github.com/yourbeach)
 
-Eduard Balamatiuc: [Facebook]([Facebook](https://www.facebook.com/eduard.balamatiuc)) [LinkedIn](https://www.linkedin.com/in/eduard-balamatiuc/) [GitHub](https://github.com/pyramixofficial)
+Eduard Balamatiuc: [Facebook](https://www.facebook.com/eduard.balamatiuc) [LinkedIn](https://www.linkedin.com/in/eduard-balamatiuc/) [GitHub](https://github.com/pyramixofficial)
 
-Alex Clefos: [Facebook]([Facebook](https://www.facebook.com/profile.php?id=100005089337863)) [LinkedIn](https://www.linkedin.com/in/alexandru-clefos-ab9604204/) [GitHub]([greek-2312 · GitHub](https://github.com/greek-2312))
+Alex Clefos: [Facebook](https://www.facebook.com/profile.php?id=100005089337863) [LinkedIn](https://www.linkedin.com/in/alexandru-clefos-ab9604204/) [GitHub](https://github.com/greek-2312)
 
-Graur Elena: [Facebook](https://www.facebook.com/elena.graur.94) [LinkedIn]() [GitHub]([MrCrowley21 · GitHub](https://github.com/MrCrowley21))
+Graur Elena: [Facebook](https://www.facebook.com/elena.graur.94) [LinkedIn]() [GitHub](https://github.com/MrCrowley21)
 
 
